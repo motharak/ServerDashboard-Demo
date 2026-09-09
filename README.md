@@ -34,23 +34,6 @@ This demo repository runs **100% in the browser** with zero external backend dep
   - **Power & Cost Calculator:** Interactive electricity rate slider with real-time monthly cost projections.
   - **1-Click Demo Login:** Fast login presets for **Administrator** and **Viewer** roles without needing credentials.
 
----
-
-## 🚀 One-Click GitHub Pages Deployment
-
-This repository includes a pre-configured GitHub Actions workflow in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
-
-### To host your own demo on GitHub Pages:
-1. Push this repository to GitHub (`main` branch).
-2. On GitHub, navigate to **Settings** → **Pages**.
-3. Under **Build and deployment** → **Source**, select **GitHub Actions**.
-4. GitHub Actions will automatically compile the site and publish it to:
-   ```
-   https://<your-username>.github.io/<your-repo-name>/
-   ```
-
----
-
 ## 💻 Local Development
 
 Run the demo locally on your workstation:
